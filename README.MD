@@ -1,1 +1,2 @@
-erase una vez, ESTA ES LA PRIMERA LÍNEA
+erase una vez
+un patito chiquitito
