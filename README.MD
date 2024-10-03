@@ -16,6 +16,7 @@ Otra característica clave de 🌿"Caring Hands" es la posibilidad de llevar un 
 4. Resumen de Resultados Médicos con Inteligencia Artificial
 Un cuarto pilar fundamental de 🌿"Caring Hands" es su capacidad para interpretar resultados médicos a través de inteligencia artificial. Los usuarios pueden subir sus resultados de análisis clínicos, que a menudo contienen una gran cantidad de datos difíciles de entender. La aplicación utiliza algoritmos avanzados para ofrecer un resumen claro y comprensible de los resultados. Por ejemplo, si un análisis muestra que todo está dentro de los parámetros normales excepto el colesterol, el sistema generará un informe que indicará la situación específica y proporcionará recomendaciones sobre cómo mejorar esos niveles. Esto no solo facilita la comprensión de la salud personal, sino que también empodera a los usuarios para tomar decisiones informadas sobre su bienestar.
 
+
 ## 🚀 Características Principales
 
 🌿 Caring Hands es una aplicación de salud diseñada para mejorar el bienestar físico de los usuarios, promoviendo la sostenibilidad ambiental y alineada con los Objetivos de Desarrollo Sostenible.
@@ -30,16 +31,23 @@ Un cuarto pilar fundamental de 🌿"Caring Hands" es su capacidad para interpret
 
 ✅ Calidad y Fiabilidad: Realizamos pruebas rigurosas tanto en el frontend como en el backend, garantizando que la aplicación opere sin fallos y proporcione una experiencia fluida, eficiente y segura en todo momento.
 
+
 ## 🔧 Tecnologías Utilizadas
 
 🌿 Caring Hands es una aplicación cuidadosamente diseñada para ser funcional y escalable, siguiendo las mejores prácticas de desarrollo. La integración entre el frontend y backend es fluida, optimizada y eficiente gracias al uso de APIs bien estructuradas.
 
 🎨 Frontend: Desarrollado con React, proporcionando una interfaz dinámica, interactiva y de alta performance, que permite una experiencia de usuario atractiva y rápida.
+
 🛠️ Backend: Implementado con Node.js y Express, para crear una arquitectura de servidor robusta, rápida y escalable que maneja las solicitudes y procesos del usuario de manera eficiente.
+
 💾 Base de Datos: Utilizamos PostgreSQL, una base de datos relacional avanzada y altamente escalable, ideal para manejar grandes volúmenes de datos con seguridad y rendimiento.
+
 🔗 APIs: Integración con APIs externas bien documentadas para asegurar una conectividad perfecta entre diversas fuentes de datos y servicios, expandiendo las capacidades de la aplicación.
+
 🤖 Inteligencia Artificial: Incorporación de modelos de IA que permiten analizar datos de salud y proporcionar recomendaciones personalizadas a los usuarios, mejorando su bienestar físico.
+
 🚀 DevOps: Utilizamos Docker para la gestión y despliegue de entornos, asegurando consistencia entre los diferentes entornos de desarrollo, pruebas y producción.
+
 
 ## 🛠 Instalación
 
@@ -67,6 +75,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
    cd ../frontend
    npm install
 
+
 ## ▶️ Uso
 
 1. Inicia el servidor del backend:
@@ -80,6 +89,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
    ```bash
    cd ../frontend
    npm start
+
 
 ## 🗂 Estructura del Proyecto
 
@@ -100,6 +110,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
        │   │   └── tests/       # Pruebas del frontend (Vitest)
        └── README.md           # Documentación del proyecto
 
+
 ## 👥 Coders
 
 Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Caring Hands**, que desempeñan un papel clave en el desarrollo y éxito de la aplicación.
@@ -113,6 +124,7 @@ Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Car
 - Mónica Serna [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicasernasantander/)
 - Triana Soler [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triana-soler-mart%C3%ADn/)
 - Juan Vázquez [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvprada/)
+
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son siempre bienvenidas!
@@ -140,6 +152,7 @@ Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Car
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
 
 ## 📧 Contacto
 
