@@ -144,26 +144,8 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
             ├──package-lock.json 
             ├──package.json 
             ├──README.md 
-            └──vite.config.js
-
-
-
-       El proyecto está organizado en dos directorios principales:
-       caring-hands/
-       │
-       ├── backend/            # Contiene el código del servidor (Node.js, Express)
-       │   ├── controllers/    # Lógica de negocio
-       │   ├── models/         # Definiciones de la base de datos (Sequelize)
-       │   ├── routes/         # Definición de rutas
-       │   └── tests/          # Pruebas unitarias (Jest, Supertest)
-       │
-       ├── frontend/           # Contiene el código del cliente (React)
-       │   ├── src/
-       │   │   ├── components/  # Componentes reutilizables
-       │   │   ├── pages/       # Vistas principales
-       │   │   ├── assets/      # Imágenes, estilos, etc.
-       │   │   └── tests/       # Pruebas del frontend (Vitest)
-       └── README.md           # Documentación del proyecto
+            ├──vite.config.js
+            └── README.md           
 
 
 ## 👥 Coders
