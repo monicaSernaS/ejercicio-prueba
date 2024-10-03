@@ -21,9 +21,13 @@ Un cuarto pilar fundamental de 🌿"Caring Hands" es su capacidad para interpret
 🌿 Caring Hands es una aplicación de salud diseñada para mejorar el bienestar físico de los usuarios, promoviendo la sostenibilidad ambiental y alineada con los Objetivos de Desarrollo Sostenible.
 
 💡 Creatividad e Innovación: Enfrentamos los retos de la salud con un enfoque disruptivo, combinando tecnología de vanguardia con bienestar para ofrecer soluciones efectivas y personalizadas.
+
 🔗 Integración Óptima: Nuestra aplicación asegura una integración perfecta entre frontend y backend, utilizando APIs sólidas y bien documentadas que garantizan una experiencia de usuario sin interrupciones y altamente interactiva.
+
 🔒 Seguridad y Rendimiento: Gestionamos los datos personales de manera segura y eficiente. Con pruebas unitarias continuas, ofrecemos una plataforma estable que prioriza la privacidad y la fiabilidad.
+
 📈 Escalabilidad Asegurada: La arquitectura flexible de Caring Hands está diseñada para crecer junto con las necesidades de los usuarios, permitiendo la adición de nuevas funcionalidades sin comprometer el rendimiento.
+
 ✅ Calidad y Fiabilidad: Realizamos pruebas rigurosas tanto en el frontend como en el backend, garantizando que la aplicación opere sin fallos y proporcione una experiencia fluida, eficiente y segura en todo momento.
 
 ## 🔧 Tecnologías Utilizadas
