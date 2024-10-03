@@ -93,7 +93,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 ## 🗂 Estructura del Proyecto
 
-      ```
+      
       El proyecto está organizado en dos directorios principales:
             client 
                   ├── public 
