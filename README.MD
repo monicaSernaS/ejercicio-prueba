@@ -1,7 +1,7 @@
 # 🌿 Caring Hands 
 
 ## 📝 Descripción del Proyecto
-
+<div style="text-align: justify">
 En un mundo donde la salud y el bienestar son cada vez más valorados, 🌿"Caring Hands" surge como una aplicación innovadora que combina tecnología, medicina y recompensas, todo con el objetivo de mejorar la calidad de vida de sus usuarios. Esta herramienta pone a tu disposición un conjunto de funcionalidades diseñadas para guiarte hacia una vida más saludable y activa, recompensando tus esfuerzos en el proceso. A continuación, te explicamos los cuatro pilares fundamentales que hacen de esta aplicación una opción única en su categoría.
 
 1. Asistente Virtual Experto en Medicina, Salud y Nutrición
@@ -15,7 +15,7 @@ Otra característica clave de 🌿"Caring Hands" es la posibilidad de llevar un 
 
 4. Resumen de Resultados Médicos con Inteligencia Artificial
 Un cuarto pilar fundamental de 🌿"Caring Hands" es su capacidad para interpretar resultados médicos a través de inteligencia artificial. Los usuarios pueden subir sus resultados de análisis clínicos, que a menudo contienen una gran cantidad de datos difíciles de entender. La aplicación utiliza algoritmos avanzados para ofrecer un resumen claro y comprensible de los resultados. Por ejemplo, si un análisis muestra que todo está dentro de los parámetros normales excepto el colesterol, el sistema generará un informe que indicará la situación específica y proporcionará recomendaciones sobre cómo mejorar esos niveles. Esto no solo facilita la comprensión de la salud personal, sino que también empodera a los usuarios para tomar decisiones informadas sobre su bienestar.es una aplicación de salud diseñada para promover el bienestar físico y la sostenibilidad, alineada con los Objetivos de Desarrollo Sostenible (ODS) de Salud y Bienestar.
-
+</div>
 
 ## 🚀 Características Principales
 
