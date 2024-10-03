@@ -103,28 +103,28 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
             └── src 
             ├── assets 
             │ └── images 
-            ├── Bene1.jpg 
+            |    ├── Bene1.jpg 
             │    ├── Bene2.jpg 
             │    ├── Bene3.jpg 
             │    ├── Bene4.jpg 
             │    └── Bene5.jpg 
             ├── components 
-            ├── ChatBot.css 
+            |    ├── ChatBot.css 
             │    ├── Chatbot.jsx 
             │    ├── Footer.css 
             │    ├── Footer.jsx 
-            ├── Modal.css 
+            |    ├── Modal.css 
             │    ├── Modal.jsx 
-            ├── Nav.css 
+            |    ├── Nav.css 
             │    └── Nav.jsx 
             ├── context 
             │    └── UserContext.jsx 
             ├── layout 
-            ├── LayoutPrivate.jsx 
+            |    ├── LayoutPrivate.jsx 
             │    └── LayoutPublic.jsx 
             ├── pages 
-            ├── Benefits.css
-            ├── Benefits.jsx 
+            |    ├── Benefits.css
+            |    ├── Benefits.jsx 
             │    ├── Home.css 
             │    ├── Home.jsx 
             │    ├── Login.jsx 
