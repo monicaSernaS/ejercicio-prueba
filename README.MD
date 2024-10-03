@@ -27,77 +27,79 @@ Caring Hands tiene como objetivo ofrecer una solución tecnológica innovadora p
 
 Sigue estos pasos para configurar el proyecto en tu máquina local:
 
-       	1. Clona el repositorio:
+       1. Clona el repositorio:
    	```bash
    	git clone https://github.com/Elianarve/caringhands.git
-2. Navega al directorio del proyecto:
+       2. Navega al directorio del proyecto:
   	 ```bash
    	cd caringhands
-3. Instala las dependencias del backend:
+       3. Instala las dependencias del backend:
   	  ```bash
   	cd https://github.com/Elianarve/caringhands_server.git
     	npm install
-4. Instala las dependencias del frontend:
+       4. Instala las dependencias del frontend:
   	 ```bash
     	cd ../frontend
     	npm install
 
-## ▶️ Uso
-1.	Inicia el servidor del backend:
-```bash
-cd backend
-npm start
+ ▶️ Uso
+       1. Inicia el servidor del backend:
+       ```bash
+       cd backend
+       npm start
 
-2.	Inicia el servidor del frontend:
-```bash
-cd ../frontend
-npm start
-## 🗂 Estructura del Proyecto
-El proyecto está organizado en dos directorios principales:
-caring-hands/
-│
-├── backend/            # Contiene el código del servidor (Node.js, Express)
-│   ├── controllers/    # Lógica de negocio
-│   ├── models/         # Definiciones de la base de datos (Sequelize)
-│   ├── routes/         # Definición de rutas
-│   └── tests/          # Pruebas unitarias (Jest, Supertest)
-│
-├── frontend/           # Contiene el código del cliente (React)
-│   ├── src/
-│   │   ├── components/  # Componentes reutilizables
-│   │   ├── pages/       # Vistas principales
-│   │   ├── assets/      # Imágenes, estilos, etc.
-│   │   └── tests/       # Pruebas del frontend (Vitest)
-└── README.md           # Documentación del proyecto
+       2. Inicia el servidor del frontend:
+       ```bash
+       cd ../frontend
+       npm start
+
+🗂 Estructura del Proyecto
+       El proyecto está organizado en dos directorios principales:
+       caring-hands/
+       │
+       ├── backend/            # Contiene el código del servidor (Node.js, Express)
+       │   ├── controllers/    # Lógica de negocio
+       │   ├── models/         # Definiciones de la base de datos (Sequelize)
+       │   ├── routes/         # Definición de rutas
+       │   └── tests/          # Pruebas unitarias (Jest, Supertest)
+       │
+       ├── frontend/           # Contiene el código del cliente (React)
+       │   ├── src/
+       │   │   ├── components/  # Componentes reutilizables
+       │   │   ├── pages/       # Vistas principales
+       │   │   ├── assets/      # Imágenes, estilos, etc.
+       │   │   └── tests/       # Pruebas del frontend (Vitest)
+       └── README.md           # Documentación del proyecto
 
 👥 Equipo
-Nuestro equipo está formado por ocho desarrolladores apasionados, cada uno contribuyendo de manera significativa al éxito de Caring Hands:
-•	Wilder Aguilar 
-•	Leire Martin-Berdinos 
-•	Alejandra Piñango 
-•	Eliana Rendón 
-•	José Antonio Rodríguez 
-•	Mónica Serna 
-•	Triana Soler 
-•	Juan Vázquez 
-##🤝 Contribuciones
+       Nuestro equipo está formado por ocho desarrolladores apasionados, cada uno contribuyendo de manera significativa al éxito de Caring Hands:
+       •	Wilder Aguilar 
+       •	Leire Martin-Berdinos 
+       •	Alejandra Piñango 
+       •	Eliana Rendón 
+       •	José Antonio Rodríguez 
+       •	Mónica Serna 
+       •	Triana Soler 
+       •	Juan Vázquez 
+
+🤝 Contribuciones
 ¡Las contribuciones son siempre bienvenidas!
-1.	Haz un fork del proyecto.
-2.	Crea una nueva rama:
-``bash
-git checkout -b feature/nueva-funcionalidad
-3.	Realiza tus cambios y realiza un commit:
-``bash
+       1.	Haz un fork del proyecto.
+       2.	Crea una nueva rama:
+       ``bash
+       git checkout -b feature/nueva-funcionalidad
+       3.	Realiza tus cambios y realiza un commit:
+       ``bash
 
-`	git commit -m 'Añadir nueva funcionalidad'
-4.	Sube tus cambios:
-``bash
+       `	git commit -m 'Añadir nueva funcionalidad'
+       4.	Sube tus cambios:
+       ``bash
 
-git push origin feature/nueva-funcionalidad
-5.	Abre un Pull Request para revisión.
-## 📄 Licencia
+       git push origin feature/nueva-funcionalidad
+       5.	Abre un Pull Request para revisión.
+📄 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-## 📧 Contacto
+📧 Contacto
 Para más información o consultas, ¡no dudes en contactarnos!
 ________________________________________
 ¡Gracias por contribuir a Caring Hands y ayudarnos a mejorar la salud y el bienestar de todos! 🌟
