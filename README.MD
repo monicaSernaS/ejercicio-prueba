@@ -40,7 +40,7 @@ Un cuarto pilar fundamental de 🌿"Caring Hands" es su capacidad para interpret
 
 🛠️ Backend: Implementado con Node.js y Express, para crear una arquitectura de servidor robusta, rápida y escalable que maneja las solicitudes y procesos del usuario de manera eficiente.
 
-💾 Base de Datos: Utilizamos PostgreSQL, una base de datos relacional avanzada y altamente escalable, ideal para manejar grandes volúmenes de datos con seguridad y rendimiento.
+💾 Base de Datos: Utilizamos WorkbenchSQL, una base de datos relacional avanzada y altamente escalable, ideal para manejar grandes volúmenes de datos con seguridad y rendimiento.
 
 🔗 APIs: Integración con APIs externas bien documentadas para asegurar una conectividad perfecta entre diversas fuentes de datos y servicios, expandiendo las capacidades de la aplicación.
 
