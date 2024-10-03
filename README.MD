@@ -148,18 +148,25 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
             └── README.md           
 
 
+
 ## 👥 Coders
 
 Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Caring Hands**, que desempeñan un papel clave en el desarrollo y éxito de la aplicación.
 
-
 - Wilder Aguilar [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilderaguilar/)
+
 - Leire Martin-Berdinos [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leiremberdinos/)
+
 - Alejandra Piñango [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-pinango/)
+
 - Eliana Rendón [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-rendon/)
+
 - José Antonio Rodríguez [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-rodriguez-8b2b65/)
+
 - Mónica Serna [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicasernasantander/)
+
 - Triana Soler [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triana-soler-mart%C3%ADn/)
+
 - Juan Vázquez [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvprada/)
 
 
