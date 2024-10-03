@@ -1,7 +1,7 @@
 # 🌿 Caring Hands 
 
 ## 📝 Descripción del Proyecto
-<div style="text-align: justify-center;">
+<div style="text-align: justify;">
 En un mundo donde la salud y el bienestar son cada vez más valorados, 🌿"Caring Hands" surge como una aplicación innovadora que combina tecnología, medicina y recompensas, todo con el objetivo de mejorar la calidad de vida de sus usuarios. Esta herramienta pone a tu disposición un conjunto de funcionalidades diseñadas para guiarte hacia una vida más saludable y activa, recompensando tus esfuerzos en el proceso. A continuación, te explicamos los cuatro pilares fundamentales que hacen de esta aplicación una opción única en su categoría.
 </div>
 
