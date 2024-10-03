@@ -90,18 +90,25 @@ Nuestro equipo está formado por ocho desarrolladores apasionados, cada uno cont
 ¡Las contribuciones son siempre bienvenidas!
 
        1.	Haz un fork del proyecto.
+
        2.	Crea una nueva rama:
+
        ``bash
        git checkout -b feature/nueva-funcionalidad
+
        3.	Realiza tus cambios y realiza un commit:
+
        ``bash
 
        `	git commit -m 'Añadir nueva funcionalidad'
+
        4.	Sube tus cambios:
        ``bash
 
        git push origin feature/nueva-funcionalidad
+
        5.	Abre un Pull Request para revisión.
+
 
 📄 Licencia
 
