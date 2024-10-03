@@ -103,18 +103,18 @@ Nuestro equipo está formado por ocho desarrolladores apasionados, cada uno cont
 
 2.	Crea una nueva rama:
 
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
+      ```bash
+      git checkout -b feature/nueva-funcionalidad
 
 3.	Realiza tus cambios y realiza un commit:
 
-  ```bash
-  git commit -m 'Añadir nueva funcionalidad'
+     ```bash
+     git commit -m 'Añadir nueva funcionalidad'
 
 4.	Sube tus cambios:
 
-   ```bash
-   git push origin feature/nueva-funcionalidad
+      ```bash
+      git push origin feature/nueva-funcionalidad
 
 5.	Abre un Pull Request para revisión.
 
