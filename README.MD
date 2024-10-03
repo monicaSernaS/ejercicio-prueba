@@ -86,16 +86,16 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 Nuestro equipo está formado por ocho desarrolladores comprometidos con el proyecto **Caring Hands**, cada uno desempeñando un papel clave en el desarrollo y éxito de la aplicación.
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandra%20Piñango-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-pinango/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliana%20Rendón-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-rendon/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Antonio%20Rodríguez-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-rodriguez-8b2b65/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Vázquez-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvprada/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leire%20Martin--Berdinos-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leiremberdinos/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mónica%20Serna-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicasernasantander/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Triana%20Soler-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triana-soler-mart%C3%ADn/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilder%20Aguilar-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilderaguilar/)
 
-🤝 Contribuciones
+- Wilder Aguilar [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilderaguilar/)
+- Leire Martin-Berdinos [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leiremberdinos/)
+- Alejandra Piñango [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-pinango/)
+- Eliana Rendón [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-rendon/)
+- José Antonio Rodríguez [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-rodriguez-8b2b65/)
+- Mónica Serna [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicasernasantander/)
+- Triana Soler [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triana-soler-mart%C3%ADn/)
+- Juan Vázquez [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvprada/)
+
 
 ¡Las contribuciones son siempre bienvenidas!
 
