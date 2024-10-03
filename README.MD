@@ -28,30 +28,43 @@ Caring Hands tiene como objetivo ofrecer una solución tecnológica innovadora p
 Sigue estos pasos para configurar el proyecto en tu máquina local:
 
        1. Clona el repositorio:
-   	```bash
+
+   	```
    	git clone https://github.com/Elianarve/caringhands.git
+
        2. Navega al directorio del proyecto:
-  	 ```bash
+
+  	```
    	cd caringhands
+
        3. Instala las dependencias del backend:
-  	  ```bash
+
+  	```
   	cd https://github.com/Elianarve/caringhands_server.git
     	npm install
+
        4. Instala las dependencias del frontend:
-  	 ```bash
+  	
+       ```
     	cd ../frontend
     	npm install
 
+
  ▶️ Uso
+
        1. Inicia el servidor del backend:
-       ```bash
+
+       ```b
        cd backend
        npm start
 
+
        2. Inicia el servidor del frontend:
-       ```bash
+
+       ```
        cd ../frontend
        npm start
+
 
 🗂 Estructura del Proyecto
 
@@ -93,17 +106,18 @@ Nuestro equipo está formado por ocho desarrolladores apasionados, cada uno cont
 
        2.	Crea una nueva rama:
 
-       ``bash
+       ```
        git checkout -b feature/nueva-funcionalidad
 
        3.	Realiza tus cambios y realiza un commit:
 
-       ``bash
+       ```
 
        `	git commit -m 'Añadir nueva funcionalidad'
 
        4.	Sube tus cambios:
-       ``bash
+
+       ```
 
        git push origin feature/nueva-funcionalidad
 
