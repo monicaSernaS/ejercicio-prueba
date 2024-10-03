@@ -80,23 +80,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
    npm install
 
 
-## ▶️ Uso
-
-1. Inicia el servidor del backend:
-
-   ```bash
-   cd backend
-   npm start
-
-2. Inicia el servidor del frontend:
-
-   ```bash
-   cd ../frontend
-   npm start
-
-
 ## 🗂 Estructura del Proyecto
-
       
       El proyecto está organizado en dos directorios principales:
             client 
@@ -171,6 +155,7 @@ Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Car
 
 - Juan Vázquez [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvprada/)
 
+
 ## 🤝 Contribuciones
 ¡Las contribuciones son siempre bienvenidas!
 
@@ -193,6 +178,7 @@ Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Car
 
 5.	Abre un Pull Request para revisión.
 
+
 ## 🚀 Mejoras Futuras para 🌿Caring Hands:
 
 ### 📊 Informes Personalizados
@@ -206,6 +192,7 @@ Lanzamiento de 🪙*Caring Coins*, un programa de moneda virtual que premiará a
 
 ### 🔗 Integración con Otras Aplicaciones
 Expansión de la conectividad mediante la integración con sistemas operativos, sensores inteligentes y plataformas de inteligencia artificial multimodal. Esta integración permitirá una recopilación de datos más precisa y una experiencia de usuario optimizada, ofreciendo un monitoreo continuo y recomendaciones basadas en un análisis integral.
+
 
 ## 📄 Licencia
 
