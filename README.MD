@@ -86,7 +86,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 Nuestro equipo está formado por ocho desarrolladores apasionados, cada uno contribuyendo de manera significativa al éxito de Caring Hands:
 
-   •	Wilder Aguilar !LinkedInhttps://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/wilderaguilar
+   •	Wilder Aguilar !LinkedIn
    •	Leire Martin-Berdinos 
    •	Alejandra Piñango 
    •	Eliana Rendón 
