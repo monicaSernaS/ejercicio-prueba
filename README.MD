@@ -189,6 +189,17 @@ Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Car
 
 5.	Abre un Pull Request para revisión.
 
+## 🚀 Mejoras Futuras para 🌿Caring Hands:
+
+1. **Escaneo de analíticas:**  
+   Implementar un sistema de análisis de datos para recopilar información sobre el uso de la aplicación. Esto incluirá el seguimiento de métricas clave como la cantidad de usuarios activos, la frecuencia de uso de las funcionalidades, y las preferencias de los usuarios en cuanto a la interacción con el chatbot y otras características. Al analizar estos datos, se podrá tomar decisiones informadas para mejorar la experiencia del usuario y adaptar la aplicación a sus necesidades, optimizando así el impacto de Caring Hands en el bienestar de los usuarios.
+
+2. **Cobertura de Pruebas:**  
+   Ampliar las pruebas unitarias para cubrir todos los componentes principales. Incluir pruebas de integración para asegurar que las interacciones entre componentes y los servicios de API estén funcionando como se espera. Probar casos límite como entradas no válidas y fallos en las llamadas a la API mejoraría la fiabilidad general de la aplicación.
+
+4. **Mejoras en la Base de Datos (de JSON-Server a Backend):**  
+   Eventualmente, considerar la posibilidad de una solución de backend más robusta para soportar actualizaciones en tiempo real, autenticación de usuarios y persistencia de datos a través de sesiones.
+
 
 ## 📄 Licencia
 
