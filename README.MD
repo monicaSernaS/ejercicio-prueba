@@ -27,7 +27,7 @@ Un cuarto pilar fundamental de 🌿"Caring Hands" es su capacidad para interpret
 
 🔒 Seguridad y Rendimiento: Gestionamos los datos personales de manera segura y eficiente. Con pruebas unitarias continuas, ofrecemos una plataforma estable que prioriza la privacidad y la fiabilidad.
 
-📈 Escalabilidad Asegurada: La arquitectura flexible de Caring Hands está diseñada para crecer junto con las necesidades de los usuarios, permitiendo la adición de nuevas funcionalidades sin comprometer el rendimiento.
+📈 Escalabilidad Asegurada: La arquitectura flexible de 🌿Caring Hands está diseñada para crecer junto con las necesidades de los usuarios, permitiendo la adición de nuevas funcionalidades sin comprometer el rendimiento.
 
 ✅ Calidad y Fiabilidad: Realizamos pruebas rigurosas tanto en el frontend como en el backend, garantizando que la aplicación opere sin fallos y proporcione una experiencia fluida, eficiente y segura en todo momento.
 
