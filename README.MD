@@ -40,7 +40,7 @@ Un cuarto pilar fundamental de 🌿"Caring Hands" es su capacidad para interpret
 
 🛠️ Backend: Implementado con Node.js y Express, para crear una arquitectura de servidor robusta, rápida y escalable que maneja las solicitudes y procesos del usuario de manera eficiente.
 
-💾 Base de Datos: Utilizamos WorkbenchSQL, una base de datos relacional avanzada y altamente escalable, ideal para manejar grandes volúmenes de datos con seguridad y rendimiento.
+💾 Base de Datos: Utilizamos mySQL, una base de datos relacional avanzada y altamente escalable, ideal para manejar grandes volúmenes de datos con seguridad y rendimiento.
 
 🔗 APIs: Integración con APIs externas bien documentadas para asegurar una conectividad perfecta entre diversas fuentes de datos y servicios, expandiendo las capacidades de la aplicación.
 
@@ -92,9 +92,58 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 
 ## 🗂 Estructura del Proyecto
-``
 
-client ├── public │ └── vite.svg ├── server │ └── db.json └── src ├── assets │ └── images │ ├── Bene1.jpg │ ├── Bene2.jpg │ ├── Bene3.jpg │ ├── Bene4.jpg │ └── Bene5.jpg ├── components │ ├── ChatBot.css │ ├── Chatbot.jsx │ ├── Footer.css │ ├── Footer.jsx │ ├── Modal.css │ ├── Modal.jsx │ ├── Nav.css │ └── Nav.jsx ├── context │ └── UserContext.jsx ├── layout │ ├── LayoutPrivate.jsx │ └── LayoutPublic.jsx ├── pages │ ├── Benefits.css │ ├── Benefits.jsx │ ├── Home.css │ ├── Home.jsx │ ├── Login.jsx │ ├── Register.css │ └── Register.jsx ├── router │ └── router.jsx ├── services │ ├── ChatbotServices.js │ ├── DataHealth.js │ └── UserServices.js └── main.jsx .gitignore eslint.config.js index.css index.html package-lock.json package.json README.md vite.config.js
+``
+client 
+├── public 
+│ └── vite.svg 
+├── server 
+│ └── db.json 
+└── src 
+├── assets 
+│ └── images 
+│    ├── Bene1.jpg 
+│    ├── Bene2.jpg 
+│    ├── Bene3.jpg 
+│    ├── Bene4.jpg 
+│    └── Bene5.jpg 
+├── components 
+│    ├── ChatBot.css 
+│    ├── Chatbot.jsx 
+│    ├── Footer.css 
+│    ├── Footer.jsx 
+│    ├── Modal.css 
+│    ├── Modal.jsx 
+│    ├── Nav.css 
+│    └── Nav.jsx 
+├── context 
+│    └── UserContext.jsx 
+├── layout 
+│    ├── LayoutPrivate.jsx 
+│    └── LayoutPublic.jsx 
+├── pages 
+│    ├── Benefits.css
+│    ├── Benefits.jsx 
+│    ├── Home.css 
+│    ├── Home.jsx 
+│    ├── Login.jsx 
+│    ├── Register.css 
+│    └── Register.jsx 
+├── router 
+│    └── router.jsx 
+├── services 
+│    ├── ChatbotServices.js 
+│    ├── DataHealth.js 
+│    └── UserServices.js 
+└── main.jsx
+├──.gitignore 
+├──eslint.config.js 
+├──index.css 
+├──index.html 
+├──package-lock.json 
+├──package.json 
+├──README.md 
+└──vite.config.js
 
 
 
