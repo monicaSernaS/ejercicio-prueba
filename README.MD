@@ -54,6 +54,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
        npm start
 
 🗂 Estructura del Proyecto
+
        El proyecto está organizado en dos directorios principales:
        caring-hands/
        │
@@ -72,7 +73,9 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
        └── README.md           # Documentación del proyecto
 
 👥 Equipo
-       Nuestro equipo está formado por ocho desarrolladores apasionados, cada uno contribuyendo de manera significativa al éxito de Caring Hands:
+
+Nuestro equipo está formado por ocho desarrolladores apasionados, cada uno contribuyendo de manera significativa al éxito de Caring Hands:
+
        •	Wilder Aguilar 
        •	Leire Martin-Berdinos 
        •	Alejandra Piñango 
@@ -83,7 +86,9 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
        •	Juan Vázquez 
 
 🤝 Contribuciones
+
 ¡Las contribuciones son siempre bienvenidas!
+
        1.	Haz un fork del proyecto.
        2.	Crea una nueva rama:
        ``bash
@@ -97,9 +102,15 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
        git push origin feature/nueva-funcionalidad
        5.	Abre un Pull Request para revisión.
+
 📄 Licencia
+
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
 📧 Contacto
+
 Para más información o consultas, ¡no dudes en contactarnos!
+
 ________________________________________
+
 ¡Gracias por contribuir a Caring Hands y ayudarnos a mejorar la salud y el bienestar de todos! 🌟
