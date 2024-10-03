@@ -62,7 +62,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
    cd ../frontend
    npm install
 
- ▶️ Uso
+## ▶️ Uso
 
 1. Inicia el servidor del backend:
 
@@ -76,7 +76,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
    cd ../frontend
    npm start
 
-🗂 Estructura del Proyecto
+## 🗂 Estructura del Proyecto
 
        El proyecto está organizado en dos directorios principales:
        caring-hands/
@@ -95,7 +95,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
        │   │   └── tests/       # Pruebas del frontend (Vitest)
        └── README.md           # Documentación del proyecto
 
-👥 Coders
+## 👥 Coders
 
 Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Caring Hands**, que desempeñan un papel clave en el desarrollo y éxito de la aplicación.
 
@@ -109,7 +109,7 @@ Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Car
 - Triana Soler [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triana-soler-mart%C3%ADn/)
 - Juan Vázquez [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvprada/)
 
-
+## 🤝 Contribuciones
 ¡Las contribuciones son siempre bienvenidas!
 
 1.	Haz un fork del proyecto.
@@ -132,11 +132,11 @@ Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Car
 5.	Abre un Pull Request para revisión.
 
 
-📄 Licencia
+## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-📧 Contacto
+## 📧 Contacto
 
 Para más información o consultas, ¡no dudes en contactarnos!
 
