@@ -198,7 +198,7 @@ Implementación de un sistema avanzado de seguimiento que genera informes detall
 Introducción de una biblioteca de videos con rutinas de ejercicio y recomendaciones saludables, diseñadas para fomentar hábitos positivos. Los usuarios podrán acceder a contenido adaptado a sus objetivos y capacidades físicas.
 
 ### 💰 Nuevos Incentivos: Caring Coins
-Lanzamiento de *Caring Coins*, un programa de moneda virtual que premiará a los usuarios por alcanzar sus metas de salud y actividad física. Estos incentivos podrán canjearse por recompensas dentro de la plataforma, creando un entorno motivacional para un estilo de vida más activo.
+Lanzamiento de 🪙*Caring Coins*, un programa de moneda virtual que premiará a los usuarios por alcanzar sus metas de salud y actividad física. Estos incentivos podrán canjearse por recompensas dentro de la plataforma, creando un entorno motivacional para un estilo de vida más activo.
 
 ### 🔗 Integración con Otras Aplicaciones
 Expansión de la conectividad mediante la integración con sistemas operativos, sensores inteligentes y plataformas de inteligencia artificial multimodal. Esta integración permitirá una recopilación de datos más precisa y una experiencia de usuario optimizada, ofreciendo un monitoreo continuo y recomendaciones basadas en un análisis integral.
