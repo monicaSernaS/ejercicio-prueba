@@ -191,15 +191,17 @@ Nuestro equipo está formado por ocho coders comprometidos con el proyecto **Car
 
 ## 🚀 Mejoras Futuras para 🌿Caring Hands:
 
-1. **Escaneo de analíticas:**  
-   Implementar un sistema de análisis de datos para recopilar información sobre el uso de la aplicación. Esto incluirá el seguimiento de métricas clave como la cantidad de usuarios activos, la frecuencia de uso de las funcionalidades, y las preferencias de los usuarios en cuanto a la interacción con el chatbot y otras características. Al analizar estos datos, se podrá tomar decisiones informadas para mejorar la experiencia del usuario y adaptar la aplicación a sus necesidades, optimizando así el impacto de Caring Hands en el bienestar de los usuarios.
+### 📊 Informes Personalizados
+Implementación de un sistema avanzado de seguimiento que genera informes detallados y análisis personalizados. Esto permitirá ofrecer recomendaciones específicas para cada usuario, facilitando una respuesta más individualizada y precisa a sus necesidades de salud y bienestar.
 
-2. **Cobertura de Pruebas:**  
-   Ampliar las pruebas unitarias para cubrir todos los componentes principales. Incluir pruebas de integración para asegurar que las interacciones entre componentes y los servicios de API estén funcionando como se espera. Probar casos límite como entradas no válidas y fallos en las llamadas a la API mejoraría la fiabilidad general de la aplicación.
+### 🎥 Videos Interactivos
+Introducción de una biblioteca de videos con rutinas de ejercicio y recomendaciones saludables, diseñadas para fomentar hábitos positivos. Los usuarios podrán acceder a contenido adaptado a sus objetivos y capacidades físicas.
 
-4. **Mejoras en la Base de Datos (de JSON-Server a Backend):**  
-   Eventualmente, considerar la posibilidad de una solución de backend más robusta para soportar actualizaciones en tiempo real, autenticación de usuarios y persistencia de datos a través de sesiones.
+### 💰 Nuevos Incentivos: Caring Coins
+Lanzamiento de *Caring Coins*, un programa de moneda virtual que premiará a los usuarios por alcanzar sus metas de salud y actividad física. Estos incentivos podrán canjearse por recompensas dentro de la plataforma, creando un entorno motivacional para un estilo de vida más activo.
 
+### 🔗 Integración con Otras Aplicaciones
+Expansión de la conectividad mediante la integración con sistemas operativos, sensores inteligentes y plataformas de inteligencia artificial multimodal. Esta integración permitirá una recopilación de datos más precisa y una experiencia de usuario optimizada, ofreciendo un monitoreo continuo y recomendaciones basadas en un análisis integral.
 
 ## 📄 Licencia
 
